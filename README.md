@@ -2,6 +2,18 @@
 
 Prescripto is a web application designed to simplify healthcare access. Patients can sign up, log in, browse through a list of doctors specializing in different fields, and book appointments effortlessly. The application is built using **React.js** for the frontend and **Tailwind CSS** for sleek and responsive styling.
 
+## Screenshots
+*Homepage: Explore a curated list of doctors from various specialties, complete with detailed profiles and booking options.*
+![Home-Page](./screenshots/home-page.jpg)
+
+
+*Appointment Booking: Select your preferred doctor and time.*
+![Book-Appointment](./screenshots/appointment.jpg)
+
+
+*All-Doctors: Browse available doctors.*
+![All-Doctors](./screenshots/all-doctors.jpg)
+
 ## Features
 
 - **User Authentication:** Patients can sign up and log in securely to access the platform.
@@ -40,21 +52,16 @@ To get started with the project locally, follow these steps:
 ```
 .
 ├── public              # Public assets
+├── screenshots
 ├── src
 │   ├── components      # Reusable UI components
 │   ├── pages           # Application pages
 │   ├── context         # Context API for state management│  
-│   └── screenshots     # ScreenShots Available
 └── README.md
 ```
-## Screenshots
 
-![Home-Page](./screenshots/home-page.jpg)
-*Homepage: Explore a curated list of doctors from various specialties, complete with detailed profiles and booking options.*
-![Book-Appointment](./screenshots/appointment.jpg)
-*Appointment Booking: Select your preferred doctor and time.*
-![All-Doctors](./screenshots/all-doctors.jpg)
-*All-Doctors: Browse available doctors.*
+
+
 
 ## Future Enhancements
 1. Doctor Profiles: Detailed profiles with reviews and ratings.
@@ -63,4 +70,4 @@ To get started with the project locally, follow these steps:
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request to improve Prescripto.
->>>>>>> 7ce20d89a45452ed2b03b5b3583ec2da50d81555
+
