@@ -37,6 +37,7 @@ To get started with the project locally, follow these steps:
    ```
 
 ## Folder Structure
+```
 .
 ├── public              # Public assets
 ├── src
@@ -45,7 +46,7 @@ To get started with the project locally, follow these steps:
 │   ├── context         # Context API for state management│  
 │   └── screenshots     # ScreenShots Available
 └── README.md
-
+```
 ## Screenshots
 
 ![Home-Page](./screenshots/home-page.jpg)
