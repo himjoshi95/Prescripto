@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
 # Prescripto
 
 Prescripto is a web application designed to simplify healthcare access. Patients can sign up, log in, browse through a list of doctors specializing in different fields, and book appointments effortlessly. The application is built using **React.js** for the frontend and **Tailwind CSS** for sleek and responsive styling.
